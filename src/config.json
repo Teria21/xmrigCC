@@ -62,10 +62,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
-            "url": "donate.graef.in:80",
-            "user": "YOUR_WALLET_ADDRESS",
+            "algo": "KawPow",
+            "coin": "Ravencoin",
+            "url": "rvn.2miners.com:16060",
+            "user": "RVEeij4XuTt5w6S3PdAqw8wYvDPoWRCzuw",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
